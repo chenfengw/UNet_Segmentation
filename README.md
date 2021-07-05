@@ -1,6 +1,6 @@
-# My Paper Title
+# UNet for Semantic Segmentation
 
-This is a PyTorch implemetation of  [UNet](https://arxiv.org/abs/1505.04597) by Olaf Ronneberger, Philipp Fischer, Thomas Brox.
+This is a PyTorch implementation of  [UNet](https://arxiv.org/abs/1505.04597) by Olaf Ronneberger, Philipp Fischer, Thomas Brox.
 
 ## Examples
 Original | Ground truth | prediction 
